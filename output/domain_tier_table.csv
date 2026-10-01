@@ -1,0 +1,7 @@
+domain,tier A (direct),tier B (indirect),tier C (contextual),protocols,total
+Dental / oral,10,2,0,0,12
+Vascular access,3,3,0,0,6
+Thoracic / chest wall,4,5,10,2,21
+Orthopedic,0,4,1,0,5
+Derm / office,4,0,0,0,4
+Total,21,14,11,2,48

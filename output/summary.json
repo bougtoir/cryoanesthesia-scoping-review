@@ -1,0 +1,32 @@
+{
+  "total_items": 48,
+  "per_domain": {
+    "dental": {
+      "A": 10,
+      "B": 2
+    },
+    "vascular access": {
+      "A": 3,
+      "B": 3
+    },
+    "thoracic": {
+      "B": 5,
+      "C": 10,
+      "protocol": 2,
+      "A": 4
+    },
+    "orthopedic": {
+      "B": 4,
+      "C": 1
+    },
+    "dermatology/office": {
+      "A": 4
+    }
+  },
+  "tier_totals": {
+    "A": 21,
+    "B": 14,
+    "C": 11,
+    "protocol": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "flow": {
+    "deduplicated": 1247,
+    "fulltext": 134,
+    "base": 38,
+    "update": 10,
+    "included": 48
+  },
+  "notes": "Counts as reported in the manuscript: 1247 records after deduplication; 134 full texts assessed; 38 base-search items + 10 update-search items = 48."
+}
